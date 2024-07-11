@@ -95,5 +95,6 @@ Estimated Total Size (MB): 251.26
 
 ### References for EEGNet and Domain Adaptation
 EEGNet : paper - https://arxiv.org/abs/1611.08024, pytorch implementation - https://github.com/aliasvishnu/EEGNet/tree/master
+
 Domain Adaptation : paper - http://sites.skoltech.ru/compvision/projects/grl/ , pytorch implementation - https://github.com/fungtion/DANN
 
