@@ -14,6 +14,9 @@ eeg_da_skf - Domain adaptive model (Addition to BC-Model1)
 
 eeg_da_skf_Augmodel - Domain Adaptive Model(Addition to BC-AugModel1) - DAAFNet
 
+
+SHAP_DAAFNET.ipynb - For model interpretability
+
 ## **Model Architecture**
 ![image](https://github.com/Mythili98/EEG-EmotionRecognition-DA-AFNet/assets/36411676/fab242c1-170a-405e-abad-bfcc1d943ec6)
 
