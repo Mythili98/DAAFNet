@@ -9,7 +9,7 @@ BC-Model1 - CNN Model without any domain adaptation
 BC-AugModel - CNN Model with time series augmentation
 
 
-eeg_da_skf - Domain adaptive model (Addition to BC-Model1)
+eeg_da_skf - Domain adaptive model (Addition to BC-Model1) - Baseline
 
 
 eeg_da_skf_Augmodel - Domain Adaptive Model(Addition to BC-AugModel1) - DAAFNet
